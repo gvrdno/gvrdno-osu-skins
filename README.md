@@ -1,4 +1,4 @@
-# ORDER-Hidden, DT, Mapping
+# ORDER: Hidden, DT, Mapping
 
 # Playing Skins (links below)
 [Vaxei Blue](https://joofixd.s-ul.eu/Idc2Mdek)
