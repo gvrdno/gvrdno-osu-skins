@@ -1,9 +1,7 @@
 # ORDER: Most used from Hidden, DT, Mapping
 
-# Special Thanks to joofixd for the source code
-
 # Playing Skins (links below)
-will try to keep updating this as time goes on
+will try to keep updating this as time goes on, also credit to joofixd for the source code
 # [LuckDOTexe](https://dl.dropboxusercontent.com/s/vutzir3wx9nytlw/LuckDOTexe.osk)
 ![](https://osu.ppy.sh/ss/16000936/1e68)
 
