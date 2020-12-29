@@ -1,5 +1,7 @@
 # ORDER: Hidden, DT, Mapping
 
+# Special Thanks to joofixd for the template
+
 # Playing Skins (links below)
 [Vaxei Blue](https://joofixd.s-ul.eu/Idc2Mdek)
 ![](https://osu.ppy.sh/ss/15821083/950a)
