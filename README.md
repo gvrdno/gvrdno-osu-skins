@@ -7,7 +7,7 @@ will try to keep updating this as time goes on
 # [LuckDOTexe](https://dl.dropboxusercontent.com/s/vutzir3wx9nytlw/LuckDOTexe.osk)
 ![](https://osu.ppy.sh/ss/16000936/1e68)
 
-[Vaxei Blue](https://joofixd.s-ul.eu/Idc2Mdek)
+# [Vaxei Blue](https://joofixd.s-ul.eu/Idc2Mdek)
 ![](https://osu.ppy.sh/ss/15821083/950a)
 
 # [dracula(funorange)](https://dl.dropboxusercontent.com/s/kkui9290sxh5fos/dracula%20%28funorange%29.osk)
