@@ -1,6 +1,6 @@
 # ORDER: Hidden, DT, Mapping
 
-# Special Thanks to joofixd for the template
+# Special Thanks to joofixd for the source code
 
 # Playing Skins (links below)
 [Vaxei Blue](https://joofixd.s-ul.eu/Idc2Mdek)
