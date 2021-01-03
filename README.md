@@ -2,6 +2,13 @@
 
 # Playing Skins (links attached to the names)
 will try to keep updating this as time goes on, also credit to joofixd for the source code
+
+# [Fukari Pink](https://dl.dropboxusercontent.com/s/rd13qm5jy7ikjjc/Fukari%20Pink.osk)
+![](https://osu.ppy.sh/ss/16023962/1fe3)
+
+# [Millhiore Lite](https://dl.dropboxusercontent.com/s/iq122rtbmydeh0x/Millhiore%20Lite.osk)
+![](https://osu.ppy.sh/ss/16023973/c025)
+
 # [LuckDOTexe](https://dl.dropboxusercontent.com/s/vutzir3wx9nytlw/LuckDOTexe.osk)
 ![](https://osu.ppy.sh/ss/16000936/1e68)
 
