@@ -9,7 +9,7 @@ will try to keep updating this every month or whenever i find new skins i like
 ![](sc later)
 
 # [YUGEN](https://drive.google.com/file/d/1UoyIbbcbl_F5S9Ku2qzCXWYIfN-RdYiN/view)
-[](https://osu.ppy.sh/ss/15244377/36f0)
+![](https://osu.ppy.sh/ss/15244377/36f0)
 
 # [Rafis HDDT (vaxei ver.)](https://www.mediafire.com/file/narmsngirt80dai/Rafis_HDDT_%28vaxei_ver.%29.osk/file)
 ![](https://osu.ppy.sh/ss/14306787/1c8c)
