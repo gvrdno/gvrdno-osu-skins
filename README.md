@@ -17,14 +17,14 @@ will try to keep updating this every month or whenever i find new skins i like
 # [Idke 1.2](https://www.mediafire.com/folder/aq1ufnj0yibds/idke%201.2)
 ![](https://osu.ppy.sh/ss/12833768)
 
+# [404 improved cursor and hitsounds](https://dl.dropboxusercontent.com/s/n7ys6jpso7vs0kv/404%20SkinNotFound%20v2.osk)
+![](https://osu.ppy.sh/ss/13488989/a76a)
+
 # [YUGEN](https://drive.google.com/file/d/1UoyIbbcbl_F5S9Ku2qzCXWYIfN-RdYiN/view)
 ![](https://osu.ppy.sh/ss/15244377/36f0)
 
 # [Kantoku Skin by RuRu (SnowWhite)](https://joofixd.s-ul.eu/paFbrEnp)
 ![](https://osu.ppy.sh/ss/14126836/e5d4)
-
-# [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
-![](https://osu.ppy.sh/ss/13488989/a76a)
 
 # [Idke 1.2](https://www.mediafire.com/folder/aq1ufnj0yibds/idke%201.2)
 ![](https://osu.ppy.sh/ss/12833768)
