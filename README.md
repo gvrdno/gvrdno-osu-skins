@@ -1,4 +1,4 @@
-# ORDER: balanced (nm/hd) → DT/ar>10
+# ORDER: balanced (nm/hd) → (DT/ar>10)
 # Current Skins (links attached to the names)
 will try to keep updating this every month or whenever i find new skins i like
 # current Main Skin; Hamachi HD
