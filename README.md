@@ -12,7 +12,7 @@ will try to keep updating this every month or whenever i find new skins i like
 # [Idke 1.2](https://www.mediafire.com/folder/aq1ufnj0yibds/idke%201.2)
 ![](https://osu.ppy.sh/ss/12833768)
 
-# [Fukari Pink](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
+# [Fukari Pink (Original Skin)](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
 ![](https://osu.ppy.sh/ss/16544412/1d56)
 
 # [Mathi enslada](https://mega.nz/file/341T3CLR#5t8J0ThyYlNASzj8bTWf-mNdte1-5SUawKJKwrOJEiY)
