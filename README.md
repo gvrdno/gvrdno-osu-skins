@@ -2,8 +2,8 @@
 # Current Skins (links attached to the names)
 will try to keep updating this every month or whenever i find new skins i like
 # current Main Skin; Hamachi HD
-Ignore Beatmap skins: OFF-
-Ignore Beatmap Hitsounds: OFF-
+Ignore Beatmap skins: OFF
+Ignore Beatmap Hitsounds: OFF
 Cursor size: 88x
 
 # [Hamachi HD](https://mega.nz/file/QV5EURAL#Vc5NZamQdwq0IM2uFaqICz6exbFyAdbQRdv1U0r3gck)
