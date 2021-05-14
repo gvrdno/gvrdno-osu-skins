@@ -1,7 +1,10 @@
-# ORDER: balanced (nm/hd) → (DT/ar>10)
+# ORDER: (nm/hd) → (DT/ar>10)
 # Current Skins (links attached to the names)
 will try to keep updating this every month or whenever i find new skins i like
-# current Main Skin; Hamachi HD
+# current Main Skin; Hamachi HD\
+Ignore Beatmap skins - OFF
+Ignore Beatmap Hitsounds - OFF
+Cursor size - 88x
 
 # [Hamachi HD](https://mega.nz/file/QV5EURAL#Vc5NZamQdwq0IM2uFaqICz6exbFyAdbQRdv1U0r3gck)
 ![](https://osu.ppy.sh/ss/16573515/66dd)
@@ -17,6 +20,9 @@ will try to keep updating this every month or whenever i find new skins i like
 
 # [Mathi enslada](https://mega.nz/file/341T3CLR#5t8J0ThyYlNASzj8bTWf-mNdte1-5SUawKJKwrOJEiY)
 ![](https://osu.ppy.sh/ss/16544450/e2f2)
+
+# [Rafis NoMod 2021 ft [RK]](https://mega.nz/folder/XBNSAZgA#a1Ehpcb_2TlUgwE5uHkRSw)
+![](https://cdn.discordapp.com/attachments/697946986812276787/817138668342083584/nm1.png)
 
 # [Cookiezi Seoul V9 Kirby](https://www.mediafire.com/file/muj1vncr1msalgr/-+_Seoul_v9_Personal_Skin_Kirby.osk/file)
 ![](https://osu.ppy.sh/ss/16573450/44cf)
