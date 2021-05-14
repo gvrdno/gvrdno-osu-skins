@@ -1,7 +1,7 @@
 # ORDER: (nm/hd) → (DT/ar>10)
 # Current Skins (links attached to the names)
 will try to keep updating this every month or whenever i find new skins i like
-# current Main Skin; Hamachi HD\
+# current Main Skin; Hamachi HD
 Ignore Beatmap skins - OFF
 Ignore Beatmap Hitsounds - OFF
 Cursor size - 88x
