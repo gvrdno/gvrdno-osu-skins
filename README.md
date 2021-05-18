@@ -15,6 +15,9 @@ Cursor size: 88x
 # [Idke 1.2](https://www.mediafire.com/folder/aq1ufnj0yibds/idke%201.2)
 ![](https://osu.ppy.sh/ss/12833768)
 
+# [rho bunny galaxy](https://mega.nz/file/xb4ASTBA#2uMW0A_m5gBjJc9lS2NINQzi3HbqgPfLMIn4nzzIm6s)
+![](https://osu.ppy.sh/ss/16605109/9c16)
+
 # [Fukari Pink (Original Skin)](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
 ![](https://osu.ppy.sh/ss/16544412/1d56)
 
