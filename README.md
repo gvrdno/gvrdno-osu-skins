@@ -1,10 +1,13 @@
 # ORDER: (nm/hd) → (DT/ar>10)
 # Current Skins (links attached to the names)
 will try to keep updating this every month or whenever i find new skins i like
-# current Main Skin; Hamachi HD
+# current Main Skin; haga remake
 Ignore Beatmap skins: OFF
 Ignore Beatmap Hitsounds: OFF
 Cursor size: 88x
+https://docs.google.com/spreadsheets/d/1Fd0di7p__MQdMeVsy7Xgb14oe4S15WGWhkyPwmViXVk/edit#gid=621645245
+
+# [haga remake](https://dl.dropboxusercontent.com/s/a6ksjbfvbrwwves/haga%20remake.osk)
 
 # [Hamachi HD](https://mega.nz/file/QV5EURAL#Vc5NZamQdwq0IM2uFaqICz6exbFyAdbQRdv1U0r3gck)
 ![](https://osu.ppy.sh/ss/16573515/66dd)
