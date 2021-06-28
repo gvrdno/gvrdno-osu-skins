@@ -1,5 +1,6 @@
 Fukariii
-# Current Skins｜今使ってるスキン(links attached to the names｜リンクは名前についてる)
+# Current Skins｜今使ってるスキン 
+(links attached to the names｜リンクは名前についてる)
 will try to keep updating this
 Ignore Beatmap skins: OFF
 Ignore Beatmap Hitsounds: OFF
