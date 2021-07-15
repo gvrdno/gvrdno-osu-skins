@@ -2,9 +2,8 @@ Fukariii
 # Current Skins｜今使っているスキン 
 (links attached to the names｜リンクは名前についてます)
 will try to keep updating this
-Ignore Beatmap skins: OFF
-Ignore Beatmap Hitsounds: OFF
-Cursor size: 88x
+
+!Aha
 
 # [Fukari Pink (Original-オリジナル)](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
 ![](https://osu.ppy.sh/ss/16544412/1d56)
