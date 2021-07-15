@@ -1,6 +1,6 @@
 Fukariii
-# Current Skins｜今使ってるスキン 
-(links attached to the names｜リンクは名前についてる)
+# Current Skins｜今使っているスキン 
+(links attached to the names｜リンクは名前についてます)
 will try to keep updating this
 Ignore Beatmap skins: OFF
 Ignore Beatmap Hitsounds: OFF
@@ -9,11 +9,14 @@ Cursor size: 88x
 # [Fukari Pink (Original-オリジナル)](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
 ![](https://osu.ppy.sh/ss/16544412/1d56)
 
+# [Fukari-tan (Original-オリジナル)](https://dl.dropboxusercontent.com/s/wmgc60j85vvsl1c/Fukari-tan.osk)
+![](https://osu.ppy.sh/ss/16834749/bb17)
+
+# [dracula (funaorange)](https://www.dropbox.com/s/n57ci29mq0ni815/dracula_final.osk?dl=0)
+![](https://osu.ppy.sh/ss/13421944/da9d)
+
 # [Hamachi HD](https://mega.nz/file/QV5EURAL#Vc5NZamQdwq0IM2uFaqICz6exbFyAdbQRdv1U0r3gck)
 ![](https://osu.ppy.sh/ss/16573515/66dd)
-
-# [rho bunny galaxy](https://mega.nz/file/xb4ASTBA#2uMW0A_m5gBjJc9lS2NINQzi3HbqgPfLMIn4nzzIm6s)
-![](https://osu.ppy.sh/ss/16605109/9c16)
 
 # [Cookiezi Seoul V9 Kirby](https://www.mediafire.com/file/muj1vncr1msalgr/-+_Seoul_v9_Personal_Skin_Kirby.osk/file)
 ![](https://osu.ppy.sh/ss/16573450/44cf)
@@ -29,5 +32,3 @@ Cursor size: 88x
 # [Rafis HDDT gvrdno](https://dl.dropboxusercontent.com/s/cfob6vaj1wq0zrh/Rafis%20HDDT%20gvrdno.osk)
 ![](https://osu.ppy.sh/ss/16544400/7a22)
 
-# [dracula (funaorange)](https://www.dropbox.com/s/n57ci29mq0ni815/dracula_final.osk?dl=0)
-![](https://osu.ppy.sh/ss/13421944/da9d)
