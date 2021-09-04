@@ -5,10 +5,10 @@ will try to keep updating this
 
 !Aha
 
-# [Fukari-tan (Original-オリジナル)](https://dl.dropboxusercontent.com/s/wmgc60j85vvsl1c/Fukari-tan.osk)
+# [Fukari-tan](https://dl.dropboxusercontent.com/s/wmgc60j85vvsl1c/Fukari-tan.osk)
 ![](https://osu.ppy.sh/ss/16834749/bb17)
 
-# [Fukari Pink (Original-オリジナル)](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
+# [Fukari Pink](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
 ![](https://osu.ppy.sh/ss/16544412/1d56)
 
 # [MonkoEdit](https://www.mediafire.com/file/xthnviquoptb313/MonkoEdit.osk/file)
