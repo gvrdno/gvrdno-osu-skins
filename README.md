@@ -11,6 +11,12 @@ will try to keep updating this
 # [Fukari Pink](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
 ![](https://osu.ppy.sh/ss/16544412/1d56)
 
+# [-+ Seoul v9 Pineapple Color Updated](https://shigeskln.s-ul.eu/aZMjYmod)
+![](https://camo.githubusercontent.com/73201d244e4b98509c57e071326a3c4c427e6f8290b54f6c2a76fdee7d766a46/68747470733a2f2f692e696d6775722e636f6d2f57704c79504d6e2e706e67)
+
+# [-+Seoul v9 Personal Skin Kirby](https://shigeskinss.s-ul.eu/gEfiNoTv)
+![](https://camo.githubusercontent.com/647870cda2452d9bc74541c0a6c1fa5e5cd3dda01bc75036ba5516a139af1aab/68747470733a2f2f692e696d6775722e636f6d2f4344366d7657542e706e67)
+
 # [MonkoEdit](https://www.mediafire.com/file/xthnviquoptb313/MonkoEdit.osk/file)
 ![](https://skins.osuck.net/uploads/posts/2021-03/1615248704_screenshot9666.jpg)
 
