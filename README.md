@@ -1,4 +1,4 @@
-# Current Skins｜よく使っているスキン 
+# Current Skins｜よく使うスキン 
 (links attached to the name - リンクは名前についております)
 this is just the bunch of skins i always switch around with while playing, will try to keep updating this desu
 
