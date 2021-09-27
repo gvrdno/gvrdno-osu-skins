@@ -1,7 +1,9 @@
 # Current Skins｜よく使っているスキン 
 (links attached to the name - リンクは名前についております)
 this is just the bunch of skins i always switch around with while playing, will try to keep updating this desu
+
 best cursor in the game ↓
+
 [KotoneComfyPray cursor](https://dl.dropboxusercontent.com/s/r78lbelm8mapzsm/KotoneComfyPray.zip)
 
 # [Fukari-tan](https://dl.dropboxusercontent.com/s/wmgc60j85vvsl1c/Fukari-tan.osk)
