@@ -1,7 +1,7 @@
 # Current Skins｜よく使うスキン 
 (links attached to the name - リンクは名前についております)
 
-this is just the bunch of skins i always switch around with while playing, will try to keep updating this desu
+this is just the main bunch of skins i always switch around with while playing
 
 best cursor in the game → 
 [KotoneComfyPray cursor](https://dl.dropboxusercontent.com/s/r78lbelm8mapzsm/KotoneComfyPray.zip)
@@ -20,6 +20,8 @@ best cursor in the game →
 
 # [dracula (funaorange)](https://www.dropbox.com/s/n57ci29mq0ni815/dracula_final.osk?dl=0)
 ![](https://osu.ppy.sh/ss/13421944/da9d)
+
+# ------------------
 
 # [Hamachi HD](https://mega.nz/file/QV5EURAL#Vc5NZamQdwq0IM2uFaqICz6exbFyAdbQRdv1U0r3gck)
 ![](https://osu.ppy.sh/ss/16573515/66dd)
