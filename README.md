@@ -21,7 +21,7 @@ best cursor in the game →
 # [dracula (funaorange)](https://www.dropbox.com/s/n57ci29mq0ni815/dracula_final.osk?dl=0)
 ![](https://osu.ppy.sh/ss/13421944/da9d)
 
-_____________I stopped using these but links are still here______________________
+_____________ I stopped using these but links are still here ______________________
 
 # [Hamachi HD](https://mega.nz/file/QV5EURAL#Vc5NZamQdwq0IM2uFaqICz6exbFyAdbQRdv1U0r3gck)
 ![](https://osu.ppy.sh/ss/16573515/66dd)
