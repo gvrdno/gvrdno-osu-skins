@@ -1,15 +1,14 @@
-Fukariii
-# Current Skins｜今使っているスキン 
-(links attached to the names｜リンクは名前についてます)
-will try to keep updating this
-pon
-
+# Current Skins｜よく使っているスキン 
+(links attached to the name - リンクは名前についております)
+this is just the bunch of skins i always switch around with while playing, will try to keep updating this desu
+best cursor in the game ↓
 [KotoneComfyPray cursor](https://dl.dropboxusercontent.com/s/r78lbelm8mapzsm/KotoneComfyPray.zip)
 
 # [Fukari-tan](https://dl.dropboxusercontent.com/s/wmgc60j85vvsl1c/Fukari-tan.osk)
 ![](https://osu.ppy.sh/ss/16834749/bb17)
 
 # [Fukari Pink](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
+(I don't actually use this alot but I'm putting this here because It's a skin i made myself)
 ![](https://osu.ppy.sh/ss/16544412/1d56)
 
 # [Cookiezi Seoul V9 Kirby](https://www.mediafire.com/file/muj1vncr1msalgr/-+_Seoul_v9_Personal_Skin_Kirby.osk/file)
@@ -26,7 +25,6 @@ pon
 
 # [Hamachi HD](https://mega.nz/file/QV5EURAL#Vc5NZamQdwq0IM2uFaqICz6exbFyAdbQRdv1U0r3gck)
 ![](https://osu.ppy.sh/ss/16573515/66dd)
-
 
 # [404 improved cursor and hitsounds](https://dl.dropboxusercontent.com/s/n7ys6jpso7vs0kv/404%20SkinNotFound%20v2.osk)
 ![](https://osu.ppy.sh/ss/13488989/a76a)
