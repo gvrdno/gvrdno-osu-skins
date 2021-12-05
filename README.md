@@ -12,6 +12,9 @@ best cursor in the game →
 # [Siae & EZBright](https://drive.google.com/uc?export=download&id=1XB45ajJuN_xG9LtzM0Wtou4HtK933Wyc)
 ![](https://osu.ppy.sh/ss/17329915/f8d6)
 
+# [filsdelama 2017-08-10](https://circle-people.com/wp-content/Skins/filsdelama/filsdelama%202017-08-10.osk)
+![](https://osu.ppy.sh/ss/17329961/0d71)
+
 # 自作↓
 
 # [Fukari-tan](https://dl.dropboxusercontent.com/s/wmgc60j85vvsl1c/Fukari-tan.osk)
