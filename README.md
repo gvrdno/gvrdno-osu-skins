@@ -1,7 +1,5 @@
-# スキンまとめ
-(links attached to the name - リンクは名前についております)
-
-just a buncch of esentials i use
+# ふかりのスキンまとめ
+(リンクは名前についております)
 
 best cursor in the game → 
 [KotoneComfyPray cursor](https://dl.dropboxusercontent.com/s/r78lbelm8mapzsm/KotoneComfyPray.zip)
