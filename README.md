@@ -17,7 +17,7 @@ best cursor in the game →
 # [Fukari-tan](https://dl.dropboxusercontent.com/s/wmgc60j85vvsl1c/Fukari-tan.osk)
 ![](https://osu.ppy.sh/ss/17103149/c064)
 
-# [Fukari Pink](https://dl.dropboxusercontent.com/s/h6shw93yneae35g/Fukari%20Pink.osk)
+# [Fukari Pink](https://dl.dropboxusercontent.com/s/ue4ggefa7b7a8r4/Fukari%20Pink.osk)
 ![](https://osu.ppy.sh/ss/16544412/1d56)
 
 
