@@ -1,24 +1,14 @@
 # ふかりのスキンまとめ
-(リンクは名前についております)
 
 best cursor in the game → 
 [KotoneComfyPray cursor](https://dl.dropboxusercontent.com/s/r78lbelm8mapzsm/KotoneComfyPray.zip)
 
 # [haga1115 Fukari remake](https://dl.dropboxusercontent.com/s/sqz2vr3muce6kmt/haga%20remake.osk)
-![](https://osu.ppy.sh/ss/17329907/7a7b)
+https://twitter.com/gvrdno/status/1510180933512572929?s=20&t=qg-Um-NwJKm2iY28Sq_YZA
 
-# [Siae & EZBright](https://drive.google.com/uc?export=download&id=1XB45ajJuN_xG9LtzM0Wtou4HtK933Wyc)
-![](https://osu.ppy.sh/ss/17329915/f8d6)
+# [mikuroll fukari edit](https://cdn.discordapp.com/attachments/748293859057991794/1005415148439212032/77777_mikuroll.osk)
+https://twitter.com/gvrdno/status/1555834256043438085?s=20&t=qg-Um-NwJKm2iY28Sq_YZA
 
-# [filsdelama 2017-08-10](https://circle-people.com/wp-content/Skins/filsdelama/filsdelama%202017-08-10.osk)
-![](https://osu.ppy.sh/ss/17329961/0d71)
-
-# 自作↓
-
-# [Fukari-tan](https://dl.dropboxusercontent.com/s/wmgc60j85vvsl1c/Fukari-tan.osk)
-![](https://osu.ppy.sh/ss/17103149/c064)
-
-# [Fukari Pink](https://dl.dropboxusercontent.com/s/ue4ggefa7b7a8r4/Fukari%20Pink.osk)
-![](https://osu.ppy.sh/ss/16544412/1d56)
-
+# [fukaridesu](https://cdn.discordapp.com/attachments/748293859057991794/1005415170337689720/Fukaridesu.osk)
+https://twitter.com/gvrdno/status/1555612643687563264?s=20&t=qg-Um-NwJKm2iY28Sq_YZA
 
