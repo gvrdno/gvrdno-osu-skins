@@ -1,7 +1,7 @@
 # ふかりのスキンまとめ
-スキンのプレビューはツイッターの抜きから見れます
+スキンのプレビューはツイッターの抜きから見れます - skin previews can be seen in twitter posts
 
-# [haga1115 ukari remake](https://dl.dropboxusercontent.com/s/sqz2vr3muce6kmt/haga%20remake.osk)
+# [haga1115 fukari remake](https://dl.dropboxusercontent.com/s/sqz2vr3muce6kmt/haga%20remake.osk)
 https://twitter.com/gvrdno/status/1510180933512572929?s=20&t=qg-Um-NwJKm2iY28Sq_YZA
 
 # [mikuroll fukari edit](https://cdn.discordapp.com/attachments/748293859057991794/1005415148439212032/77777_mikuroll.osk)
