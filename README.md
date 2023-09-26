@@ -1,4 +1,4 @@
-# ふかりのスキンまとめ
+# 自作まとめ(仮)
 
 # [fukari](https://cdn.discordapp.com/attachments/748293859057991794/1156088060430254080/Fukari.osk?ex=6513b268&is=651260e8&hm=172f4c976b74e11d8a4825ce8217136b1e2790678fb2672a3df1a099fd0b5cc1&)
 ![](https://cdn.discordapp.com/attachments/748293859057991794/1156086719842623519/screenshot017.jpg?ex=6513b129&is=65125fa9&hm=52c5f4ec9b9faa897f08b238f734576bcc101da0675d63443cd75956fd31254f&)
