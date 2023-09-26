@@ -16,4 +16,3 @@ https://twitter.com/gvrdno/status/1555834256043438085?s=20&t=qg-Um-NwJKm2iY28Sq_
 
 # [fukaridesu](https://cdn.discordapp.com/attachments/748293859057991794/1005415170337689720/Fukaridesu.osk)
 https://twitter.com/gvrdno/status/1555612643687563264?s=20&t=qg-Um-NwJKm2iY28Sq_YZA
-
