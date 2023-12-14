@@ -1,4 +1,5 @@
 # PRIVATE SKINS
+i use these the most probably, also made most of the skin elements 
 
 # [fukari](https://cdn.discordapp.com/attachments/1184844604810481726/1184847282617712660/fukari.osk)
 ![](https://cdn.discordapp.com/attachments/748293859057991794/1184864133397614662/screenshot036.jpg?ex=658d85b7&is=657b10b7&hm=13f757df391138f11c06c88dd312117b4e67d25f95d6386f376a6c642031d042&)
@@ -12,7 +13,9 @@
 # [fukari default](https://cdn.discordapp.com/attachments/1184844604810481726/1184847317283643432/fukari_default.osk)
 ![](https://cdn.discordapp.com/attachments/748293859057991794/1184864242663440434/screenshot037.jpg?ex=658d85d1&is=657b10d1&hm=634c60fe62dbce58e3d7e21b728b61bb578121d1c224e74324bedf3ade4f3bd8&)
 
-# HEAVILY MIXED SKINS & REMAKES
+# MIXED SKINS & REMAKES
+skins i mixed and/or remade 
+
 [haga1115 fukari remake](https://dl.dropboxusercontent.com/s/sqz2vr3muce6kmt/haga%20remake.osk)
 
 [mikuroll fukari edit](https://cdn.discordapp.com/attachments/748293859057991794/1005415148439212032/77777_mikuroll.osk)
