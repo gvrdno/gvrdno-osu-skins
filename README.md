@@ -1,15 +1,13 @@
-# 自作まとめ(仮)
+# PRIVATE SKINS
+# [fukari](https://cdn.discordapp.com/attachments/1184844604810481726/1184847282617712660/fukari.osk)
+# [fukari default](https://cdn.discordapp.com/attachments/1184844604810481726/1184847317283643432/fukari_default.osk)
+# [fukari alt](https://cdn.discordapp.com/attachments/1184844604810481726/1184855852423847956/Fukari_alt.osk?ex=658d7e00&is=657b0900&hm=249e26fa7995a0aa533a0f5a25c9131ec26ebaf6a3203ecdd3ccfa931accd27f&)
+# [fukari bubble](https://cdn.discordapp.com/attachments/1184844604810481726/1184855472768036864/Fukari_bubble.osk?ex=658d7da6&is=657b08a6&hm=4bc6f14cebf57bbc9d09032b321d92eccd2c5e9477e89be9d03144f22b36d15c&)
 
-# [fukari](https://cdn.discordapp.com/attachments/748293859057991794/1156088060430254080/Fukari.osk?ex=6513b268&is=651260e8&hm=172f4c976b74e11d8a4825ce8217136b1e2790678fb2672a3df1a099fd0b5cc1&)
-![](https://cdn.discordapp.com/attachments/748293859057991794/1156086719842623519/screenshot017.jpg?ex=6513b129&is=65125fa9&hm=52c5f4ec9b9faa897f08b238f734576bcc101da0675d63443cd75956fd31254f&)
-
-# [fukari alt](https://cdn.discordapp.com/attachments/748293859057991794/1156088071540977737/Fukari_alt.osk?ex=6513b26b&is=651260eb&hm=42c454c9c0d50b52e1f14186fad3f64ee43b8709aeb95e606377cc273dad5df5&)
-![](https://cdn.discordapp.com/attachments/748293859057991794/1156086720199143524/screenshot021.jpg?ex=6513b129&is=65125fa9&hm=07890e3fa78c8caced3d0a5d9c511897e6726238547ebc9bb593c7bc3b6c8c83&)
-
-# 昔使ってたスキン
-
+# HEAVILY MIXED SKINS & REMAKES
 [haga1115 fukari remake](https://dl.dropboxusercontent.com/s/sqz2vr3muce6kmt/haga%20remake.osk)
 
 [mikuroll fukari edit](https://cdn.discordapp.com/attachments/748293859057991794/1005415148439212032/77777_mikuroll.osk)
 
 [fukaridesu](https://cdn.discordapp.com/attachments/748293859057991794/1005415170337689720/Fukaridesu.osk)
+
