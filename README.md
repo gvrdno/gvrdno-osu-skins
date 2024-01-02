@@ -1,5 +1,5 @@
 # PRIVATE SKINS
-i use these the most probably, i also made most of the skin elements
+i use these the most probably, i also made a majority of the skin elements
 
 
 # [fukari](https://cdn.discordapp.com/attachments/1184844604810481726/1184847282617712660/fukari.osk)
