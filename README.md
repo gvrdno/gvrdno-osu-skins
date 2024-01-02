@@ -1,5 +1,5 @@
 # FUKARI SKINS
-i was planning on making this private but decided to have it public :) \
+i was planning on making this private but nevermind :) \
 ‎site contains almost all of my private skins, and other skins I remade or edited 
 
 <details><summary>PRIVATE SKINS</sub></summary>
