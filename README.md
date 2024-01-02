@@ -1,6 +1,7 @@
 # FUKARI SKINS
-backup github for personal use but im making it public cause why not :) \
-theres my private skins, ones i made a majority of the elements and other skins i remade or edited
+backup site for personal use but I'm making it public cause why not :) \
+‎
+list contains almost all of my private skins, ones i made a majority of the elements for and other skins I remade or edited
 
 <details><summary>PRIVATE SKINS</sub></summary>
 <p>
@@ -23,4 +24,6 @@ theres my private skins, ones i made a majority of the elements and other skins 
 </details>
 
 > Click on the images to download\
-> ‎‎‎‎‎‎‎‎ㅤHover over the images to see each skin's name
+> ‎‎‎‎‎‎‎‎Hover over the images to see each skin's name
+
+contact my [Twitter](https://twitter.com/gvrdno) if anything is broken or missing
