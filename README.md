@@ -1,6 +1,6 @@
 # FUKARI SKINS
 backup site for personal use but I'm making it public cause why not :) \
-‎list contains almost all of my private skins, ones i made a majority of the elements for and other skins I remade or edited 
+‎site contains almost all of my private skins, and other skins I remade or edited 
 
 <details><summary>PRIVATE SKINS</sub></summary>
 <p>
