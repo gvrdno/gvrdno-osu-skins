@@ -1,8 +1,8 @@
 # FUKARI SKINS
 i was planning on making this private since it was only meant for backups but might aswell make it public :) \
-‎site contains almost all of my private skins, and other skins I remade or edited 
+directory consists of my private skins, and some other skins I remade or edited
 
-<details><summary>PRIVATE SKINS</sub></summary>
+<details><summary>MAIN SKINS</sub></summary>
 <p>
   
 > Click on the images to download\
