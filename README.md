@@ -1,4 +1,5 @@
-i was planning on making this private since it was only meant for backups but might aswell make it public :) \
+# FUKARI SKINS
+i was planning on making this private since it was originally meant for backups but might aswell make it public :) \
 directory consists of my private skins, and some other skins I remade or edited
 
 <details><summary>MAIN SKINS</sub></summary>
