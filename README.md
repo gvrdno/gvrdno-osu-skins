@@ -1,4 +1,3 @@
-![image](https://github.com/gvrdno/gvrdno-osu-skins/assets/59107531/5d00f031-5b87-46d2-be01-b3f28c4c2510)# FUKARI SKINS
 i was planning on making this private since it was only meant for backups but might aswell make it public :) \
 directory consists of my private skins, and some other skins I remade or edited
 
