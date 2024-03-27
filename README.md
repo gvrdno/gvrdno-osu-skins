@@ -8,7 +8,7 @@ directory consists of my private skins, and some other skins I remade or edited
 > Click on the images to download\
 > ‎‎‎‎‎‎‎‎Hover over the images to see each skin's name
 
-[![fukari](https://i.imgur.com/Yt5CUdW.jpeg "fukari")](https://dl.dropboxusercontent.com/scl/fi/24e8vw44y1phnigfcm6bc/fukari.osk?rlkey=mucek782yd4wjreke45iiiyvu&dl=0)
+[![fukari](https://i.imgur.com/Yt5CUdW.jpeg "fukari")](https://dl.dropboxusercontent.com/scl/fi/bhskfvn35jzdrvx2o9pr9/fukari.osk?rlkey=9uuzkh53w6dk5kdepasie3tn3&dl=0)
 
 [![fukari default](https://i.imgur.com/T3WjAmn.jpeg "fukari default")](https://dl.dropboxusercontent.com/scl/fi/5xs3m575wmujblj1j5zyj/fukari-default.osk?rlkey=j9rzrox51wa45psi6howdndll&dl=0)
 
